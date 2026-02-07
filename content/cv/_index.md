@@ -6,4 +6,4 @@ menu:
     weight: 50
 ---
 
-[Download my CV (PDF)](/files/CV.pdf)
+[Download my CV (PDF)](/static/CV.pdf)
