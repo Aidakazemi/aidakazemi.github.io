@@ -14,8 +14,8 @@ title = "Blowfish"
   dateFormat = "2 January 2006"
 
 [params.author]
-  name = "Your name here"
-  image = "img/blowfish_logo.png"
+  name = "Aida Kazemi"
+  image = "headshot.jpg"
   headline = "I'm only human"
   bio = "A little bit about you"
   # links = [
