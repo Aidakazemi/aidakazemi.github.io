@@ -27,7 +27,7 @@ enableCodeCopy = true
 
 [author]
   name = "Aida Kazemi"
-  image = "img/headshot.jpg"
+  image = "headshot.jpg"
 
 [homepage]
   layout = "profile" # valid options: page, profile, hero, card, background, custom
