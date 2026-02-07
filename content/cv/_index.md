@@ -1,5 +1,6 @@
 ---
 title: "CV"
+layout: "page"
 menu:
   main:
     name: "CV"
