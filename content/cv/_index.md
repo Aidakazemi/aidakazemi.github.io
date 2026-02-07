@@ -2,4 +2,8 @@
 title: "CV"
 ---
 
-[Download my CV (PDF)](/CV.pdf)
+## Curriculum Vitae
+
+Download full CV here:
+
+[📄 Download CV (PDF)](/CV.pdf)
