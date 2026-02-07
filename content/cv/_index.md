@@ -6,4 +6,4 @@ title: "CV"
 
 Download full CV here:
 
-[📄 Download CV (PDF)](/CV.pdf)
+[📄 Download CV (PDF)](Static/CV.pdf)
