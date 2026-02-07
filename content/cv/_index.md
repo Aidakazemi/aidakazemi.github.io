@@ -1,6 +1,6 @@
 ---
 title: "CV"
-layout: "page"
+layout: "page" 
 ---
 
 [Download my CV (PDF)](/static/CV.pdf)
