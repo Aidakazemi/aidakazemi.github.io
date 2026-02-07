@@ -15,7 +15,7 @@ title = "Blowfish"
 
 [params.author]
   name = "Aida Kazemi"
-  image = "img/headshot.jpg"
+  image = "/img/headshot.jpg"
   headline = "I'm only human"
   bio = "A little bit about you"
   # links = [
