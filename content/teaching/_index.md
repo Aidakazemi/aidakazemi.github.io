@@ -1,5 +1,6 @@
 ---
 title: "Teaching"
+layout: "page"
 ---
 
 ## Courses
