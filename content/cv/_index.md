@@ -1,9 +1,9 @@
 ---
 title: "CV"
+menu:
+  main:
+    name: "CV"
+    weight: 50
 ---
 
-## Curriculum Vitae
-
-Download full CV here:
-
-[📄 Download CV (PDF)](/files/CV.pdf)
+[Download my CV (PDF)](/files/CV.pdf)
