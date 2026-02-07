@@ -5,7 +5,7 @@
 theme = "blowfish"
 baseURL = "https://aidakazemi.github.io/"
 canonifyURLs = true
-defaultContentLanguage = "en"
+defaultContentLanguage = "en" 
 
 enableRobotsTXT = true
 paginate = 20
