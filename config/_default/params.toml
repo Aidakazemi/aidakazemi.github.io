@@ -25,10 +25,6 @@ enableCodeCopy = true
   showAppearanceSwitcher = true
   showScrollToTop = true
 
-[author]
-  name = "Aida Kazemi"
-  image = "img/headshot.jpg"
-
 [homepage]
   layout = "profile" # valid options: page, profile, hero, card, background, custom
   homepageImage = "img/headshot.jpg" # used in: hero, and card
