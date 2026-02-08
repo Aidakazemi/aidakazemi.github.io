@@ -16,8 +16,8 @@ title = "Blowfish"
 [params.author]
   name = "Aida Kazemi"
   image = "img/headshot.jpg"
-  headline = "I'm only human"
-  bio = "A little bit about you"
+  #headline = "I'm only human"
+  #bio = "A little bit about you"
   # links = [
   #   { email = "mailto:hello@your_domain.com" },
   #   { link = "https://link-to-some-website.com/" },
