@@ -26,6 +26,3 @@ I have taught in undergraduate and graduate programs in business and economics p
 |---------|---------|---------|---------|
 | Business Ethics, CSR & Business Environment Analysis | MBA | Ethics, corporate responsibility, environment scanning | — |
 | Business Analytics | MBA | Applied analytics and managerial decision-making | [📂 Course Repository](https://github.com/Aidakazemi/BUS650) |
-
----
-
