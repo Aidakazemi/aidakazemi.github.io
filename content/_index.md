@@ -9,7 +9,7 @@ Welcome to my page
 
 ## Biography
 
-My name is Aida Kazemi. I have nearly a decade of teaching experience with undergraduate and graduate students, starting from my home country Iran and continuing in Canada. I am currently a Faculty Member at Yorkville University in Vancouver, Canada. I am also pursuing a Doctor of Business Administration (DBA) in Business Analytics at George Fox University in Portland, Oregon.
+My name is Aida Kazemi. I have nearly a decade of teaching experience to undergraduate and graduate students, starting from my home country, Iran, and continuing in Canada. I am currently a Faculty Member at Yorkville University in Vancouver, Canada. I am also pursuing a Doctor of Business Administration (DBA) in Business Analytics at George Fox University in Portland, Oregon.
 
 I hold an MA in Economics from Simon Fraser University in Vancouver and an MSc in Economics and Social Systems Engineering from the Institute for Management and Planning Studies in Tehran. The combination of my economics and business background has given me a strong foundation and a broader way of looking at events and decisions. It helps me approach situations with multiple lenses and perspectives when analyzing what is happening.
 
