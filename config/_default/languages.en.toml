@@ -16,6 +16,11 @@ title = "Aida Kazemi"
 [params.author]
   name = "Aida Kazemi"
   image = "img/headshot.jpg"
+  links = [
+  { github = "https://github.com/Aidakazemi" },
+  { linkedin = "www.linkedin.com/in/aida-kazemi" },
+  { google = "https://scholar.google.com/citations?user=vrcahwUAAAAJ&hl=en" },
+  ]
   #headline = "I'm only human"
   #bio = "A little bit about you"
   # links = [
