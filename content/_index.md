@@ -3,52 +3,61 @@ title: "Home"
 layout: "page"
 ---
 
-# Aida Kazemi
+# Welcome
 
-**Faculty Member · Business & Analytics · Generative AI & Labor Markets**
+Welcome to my page — I invite you to explore my teaching, scholarly activity, research areas, and projects.
 
-I am a faculty member and researcher specializing in business analytics, economics, and the impact of Generative AI on organizations and labor markets. My work focuses on data-driven decision-making, AI policy and ethics, and applied analytics in business and strategy contexts. I teach undergraduate and graduate courses in business analytics, strategy, and ethics using applied, project-based learning approaches.
-
-My research explores AI adoption, workforce transformation, and responsible AI governance, with ongoing projects connecting analytics, policy, and organizational outcomes.
+I have nearly a decade of teaching experience with undergraduate and graduate students, starting from my home country Iran and continuing in Canada. I am currently Faculty member at Yorkville University. The combination of my economics and business background has given me the foundations and a broader way of looking at events and decisions. It helps me approach situations with multiple lenses and perspectives when analyzing what is happening.
 
 ---
 
-## Research Areas
+## Teaching and Scholarly Work
 
-- Generative AI & labor market impact  
-- Business analytics & data-driven strategy  
-- AI ethics and policy frameworks  
-- Technology adoption in organizations  
-- Applied analytics in management education  
+Besides teaching, I am actively involved in scholarly activity, including research, executive and academic service, and educational initiatives. My work brings together teaching practice, research, and applied academic contributions.
 
----
+My main areas of focus include:
 
-## Current Work & Academic Activity
-
-- Ongoing research on Generative AI and occupational exposure models  
-- Conference papers in management and analytics (2026 cycle)  
-- Curriculum development in business ethics and analytics  
-- Faculty scholarly activity and applied research initiatives  
+- teaching pedagogy and andragogy  
+- active, blended, and experiential learning  
+- learning space design and student engagement  
+- Generative AI and its impact on teaching and labor markets  
+- AI ethics and policy for unrepresented creators  
+- financial literacy education and personal finance  
 
 ---
 
-## Teaching
+## Coding and Technical Projects
 
-I teach courses in:
+I love coding and creating meaningful outputs through code. Earlier, I used to code fully on my own, and now with advancements in tools like ChatGPT, I often do more “vibe coding.” With these newer tools, working with software and building technical solutions has become even more enjoyable and creative for me.
 
-- Business Analytics  
-- Business Ethics  
-- Strategy & Decision Making  
-- Data-Driven Management  
+Here is my GitHub page with some of the projects I have worked on:  
+https://github.com/Aidakazemi
 
-My teaching approach emphasizes applied projects, real datasets, and decision-focused analysis.
+My interest in coding connects closely with another passion of mine — working with business and economic data to discover meaning, relationships, and interpretation. I enjoy analyzing and synthesizing information. As Roberts & Roberts (2010) describe in *The Dissertation Journey*, analysis is like describing the trees, while synthesis is describing the forest. In my data work, I try to practice both — seeing the details and the bigger picture.
+
+Some of my small data visualization projects are published on Tableau Public here:  
+https://public.tableau.com/app/profile/aida.kazemi/vizzes
 
 ---
 
-## Quick Links
+## Beyond Teaching and Research
 
-[Scholarly Activities](/research)  
-[Publications](/publications)  
-[Teaching](/teaching)  
-[Curriculum Vitae](/CV.pdf)  
-[Contact](/contact)
+Setting teaching and research aside, I spend much of my personal time reading economic and political news and following financial and stock markets.
+
+I enjoy hiking and skiing. Living in Vancouver for about nine years has drawn me close to the mountains, and being surrounded by them naturally led me to explore hiking and learn skiing. Some of my favorite moments have been at Grouse Mountain and Watersprite Lake.
+![Grouse Mountain](/img/grouse.jpg)
+![Watersprite Lake](/img/watersprite.jpg)
+
+I also enjoy traveling and have traveled to 15 countries across three continents — America, Europe, and Asia.
+
+---
+
+## Languages
+
+I actively speak:
+
+- Farsi  
+- English  
+- Azerbaijani  
+
+I speak Turkish at an intermediate level and German at a beginner level.
