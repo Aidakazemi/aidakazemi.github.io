@@ -1,6 +1,9 @@
 ---
-title: "CV"
+title: "Curriculum Vitae"
 layout: "page"
+type: "page"
 ---
 
-[Download my CV (PDF)](/static/CV.pdf)
+## Curriculum Vitae
+
+[Download my CV (PDF)](/CV.pdf)
