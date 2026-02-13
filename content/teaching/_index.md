@@ -6,8 +6,6 @@ cascade:
   showTableOfContents: false
 ---
 
-## Teaching Overview
-
 I have taught in undergraduate and graduate programs in business and economics programs. 
 
 ---
