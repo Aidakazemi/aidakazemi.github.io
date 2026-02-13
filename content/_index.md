@@ -3,8 +3,6 @@ title: "Home"
 layout: "page"
 ---
 
-# Welcome
-
 Welcome to my page — I invite you to explore my teaching, scholarly activity, research areas, and projects.
 
 I have nearly a decade of teaching experience with undergraduate and graduate students, starting from my home country Iran and continuing in Canada. I am currently Faculty member at Yorkville University. The combination of my economics and business background has given me the foundations and a broader way of looking at events and decisions. It helps me approach situations with multiple lenses and perspectives when analyzing what is happening.
@@ -17,12 +15,12 @@ Besides teaching, I am actively involved in scholarly activity, including resear
 
 My main areas of focus include:
 
-- teaching pedagogy and andragogy  
-- active, blended, and experiential learning  
-- learning space design and student engagement  
-- Generative AI and its impact on teaching and labor markets  
-- AI ethics and policy for unrepresented creators  
-- financial literacy education and personal finance  
+teaching pedagogy and andragogy  
+active, blended, and experiential learning  
+learning space design and student engagement  
+Generative AI and its impact on teaching and labor markets  
+AI ethics and policy for unrepresented creators  
+financial literacy education and personal finance  
 
 ---
 
