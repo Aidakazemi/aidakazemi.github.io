@@ -1,7 +1,6 @@
 ---
 title: "Home"
 layout: "page"
-showTableOfContents: true
 ---
 
 Welcome to my page — I invite you to explore my teaching, scholarly activity, research areas, and projects.
