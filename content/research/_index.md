@@ -4,8 +4,6 @@ layout: "page"
 type: "page"
 ---
 
-## Scholarly Activity Overview
-
 My scholarly activity brings together research, teaching innovation, applied educational design, and academic service. My work is shaped by both my academic background and my lived experience as a learner and educator. I focus on producing work that is thoughtful, practical, and meaningful for students, institutions, and society.
 
 ---
