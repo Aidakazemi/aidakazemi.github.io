@@ -32,7 +32,7 @@
 
 [[main]]
   name = "CV"
-  pageRef = "/static/CV.pdf"
+  url = "/static/CV.pdf"
   weight = 50
 
 [[main]]
