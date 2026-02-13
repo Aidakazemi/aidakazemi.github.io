@@ -47,7 +47,7 @@ My teaching approach emphasizes applied projects, real datasets, and decision-fo
 
 ## Quick Links
 
-[Research](/scholarly activities)  
+[Scholarly Activities](/research)  
 [Publications](/publications)  
 [Teaching](/teaching)  
 [Curriculum Vitae](/CV.pdf)  
