@@ -21,6 +21,6 @@ Mazzucato, L., Babaee, N., Kazemi, A., Kaur, N., Sode, S., & Daeizadeh, Z. (2022
 
 ## Software Packages
 
-Kazemi, A., & Adibi, A. (2020). *codexcopd: Predicting prognosis for COPD patients.* R package.
+Kazemi, A., & Adibi, A. (2020). *codexcopd: Predicting prognosis for COPD patients.* R package. https://cran-e.com/author/Aida%20Kazemi
 
-Kazemi, A., & Adibi, A. (2020). *cfmortality: Predicting survival probabilities for cystic fibrosis.* R package.
+Kazemi, A., & Adibi, A. (2020). *cfmortality: Predicting survival probabilities for cystic fibrosis.* R package. https://cran-e.com/author/Aida%20Kazemi
