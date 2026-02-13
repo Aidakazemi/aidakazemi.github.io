@@ -31,6 +31,8 @@ Sept 2015 – Sept 2017
 **BSc, Industrial Engineering**  
 Kharazmi University — Tehran, Iran  
 Jan 2011 – Sept 2015
+
+
 ---
 
 ## Scholarly Work
