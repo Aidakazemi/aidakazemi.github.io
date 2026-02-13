@@ -9,18 +9,9 @@ I have nearly a decade of teaching experience with undergraduate and graduate st
 
 ---
 
-## Teaching and Scholarly Work
+## Scholarly Work
 
 Besides teaching, I am actively involved in scholarly activity, including research, executive and academic service, and educational initiatives. My work brings together teaching practice, research, and applied academic contributions.
-
-My main areas of focus include:
-
-teaching pedagogy and andragogy  
-active, blended, and experiential learning  
-learning space design and student engagement  
-Generative AI and its impact on teaching and labor markets  
-AI ethics and policy for unrepresented creators  
-financial literacy education and personal finance  
 
 ---
 
