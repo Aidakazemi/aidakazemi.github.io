@@ -25,7 +25,7 @@ Here is my GitHub page with some of the projects I have worked on:
 My interest in coding connects closely with another passion of mine — working with business and economic data to discover meaning, relationships, and interpretation. I enjoy analyzing and synthesizing information. As Roberts & Roberts (2010) describe in *The Dissertation Journey*, analysis is like describing the trees, while synthesis is describing the forest. In my data work, I try to practice both — seeing the details and the bigger picture.
 
 Some of my small data visualization projects are published on Tableau Public here:  
-[View my Tableau visualizations](https://public.tableau.com/app/profile/aida.kazemi/vizzes
+[View my Tableau visualizations](https://public.tableau.com/app/profile/aida.kazemi/vizzes)
 
 ---
 
