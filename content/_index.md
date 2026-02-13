@@ -38,15 +38,3 @@ I enjoy hiking and skiing. Living in Vancouver for about nine years has drawn me
 ![Watersprite Lake](/watersprite.JPG)
 
 I also enjoy traveling and have traveled to 15 countries across three continents — America, Europe, and Asia.
-
----
-
-## Languages
-
-I actively speak:
-
-- Farsi  
-- English  
-- Azerbaijani  
-
-I speak Turkish at an intermediate level and German at a beginner level.
