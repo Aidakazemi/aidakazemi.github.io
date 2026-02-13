@@ -1,6 +1,9 @@
 ---
 title: "Teaching"
 layout: "page"
+cascade:
+  showSummary: false
+  showTableOfContents: false
 ---
 
 ## Teaching Overview
