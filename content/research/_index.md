@@ -73,6 +73,25 @@ Through personal experimentation, study, and applied analysis, this area has dev
 
 ## Scholarly Initiatives and Academic Service
 
+
+### Conference Presentations
+
+Kazemi, A. (2025, March). Assessing teaching and learning in FLEX YU classroom, a classroom redesign initiative. Southwest Academy of Management Conference, Tulsa, Oklahoma.
+
+Kazemi, A., Araujo, A., & Ozcategui, G. (2024, October). Impact of generative AI on Canadian labor market. EURASIA World Conference, Amsterdam, Netherlands.
+
+Hannon, N., Gkasis, P., & Kazemi, A. (2024, June). FLEX YU: Student and faculty perceptions of a collaborative, cross-country classroom redesign initiative. STLHE Conference, Niagara Falls, Ontario.
+
+---
+
+### Editorial and Peer-Review Service
+
+Southwest Academy of Management — Conference Paper Reviewer (2025)
+
+Western Academy of Management — Conference Paper Reviewer (2025)
+
+---
+
 ### Financial Literacy Public Initiative
 
 I launched a public financial literacy initiative that promotes lifelong financial education through research-based content, real-life examples, and expert interviews. The goal is to support individuals in making informed long-term financial decisions.
