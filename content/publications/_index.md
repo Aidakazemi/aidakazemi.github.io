@@ -1,6 +1,9 @@
 ---
 title: "Publications"
 layout: "page"
+cascade:
+  showSummary: false
+  showTableOfContents: false
 ---
 
 ## Journal and Working Papers
