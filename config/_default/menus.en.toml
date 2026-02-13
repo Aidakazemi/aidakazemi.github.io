@@ -16,7 +16,7 @@
   weight = 10
 
 [[main]]
-  name = "Research"
+  name = "Scholarly Activities"
   pageRef = "/research"
   weight = 20
 
