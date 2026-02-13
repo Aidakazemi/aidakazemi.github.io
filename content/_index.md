@@ -35,7 +35,7 @@ Setting teaching and research aside, I spend much of my personal time reading ec
 
 I enjoy hiking and skiing. Living in Vancouver for about nine years has drawn me close to the mountains, and being surrounded by them naturally led me to explore hiking and learn skiing. Some of my favorite moments have been at Grouse Mountain and Watersprite Lake.
 ![Grouse Mountain](/grouse.JPG)
-![Watersprite Lake](/watersprite.JPG)
+![Watersprite Lake](/watersprite_sp.JPG)
 
 I also enjoy traveling and have traveled to 15 countries across three continents — America, Europe, and Asia.
 
