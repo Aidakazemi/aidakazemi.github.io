@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: "Scholarly Activities"
 layout: "page"
 type: "page"
 ---
