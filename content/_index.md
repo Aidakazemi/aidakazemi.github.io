@@ -1,6 +1,7 @@
 ---
 title: "Home"
 layout: "page"
+
 ---
 
 Welcome to my page — I invite you to explore my teaching, scholarly activity, research areas, and projects.
