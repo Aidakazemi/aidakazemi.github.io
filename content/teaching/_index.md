@@ -5,11 +5,11 @@ layout: "page"
 
 ## Teaching Overview
 
-I teach across undergraduate and graduate programs in business, analytics, ethics, and economics. My courses emphasize applied learning, decision-making, and real-world problem solving using data, cases, and structured frameworks.
+I have taught in undergraduate and graduate programs in business and economics programs. 
 
 ---
 
-## 🎓 Yorkville University — Undergraduate (BBA)
+## Yorkville University — Undergraduate (BBA)
 
 | Course | Level | Focus |
 |--------|---------|---------|
@@ -20,7 +20,7 @@ I teach across undergraduate and graduate programs in business, analytics, ethic
 
 ---
 
-## 🎓 University Canada West — Graduate (MBA)
+## University Canada West — Graduate (MBA)
 
 | Course | Level | Focus | Materials |
 |---------|---------|---------|---------|
@@ -29,22 +29,3 @@ I teach across undergraduate and graduate programs in business, analytics, ethic
 
 ---
 
-## 🧭 Teaching Approach
-
-My courses are designed around:
-
-- applied projects using realistic business scenarios  
-- analytics and decision-focused assignments  
-- structured ethical and strategic frameworks  
-- communication of insights to non-technical audiences  
-- scaffolded feedback and milestone-based evaluation  
-
----
-
-## 🛠️ Learning Methods Used
-
-- Case-based discussion  
-- Data analysis projects  
-- Executive-style written briefs  
-- Dashboard and visualization assignments  
-- Peer discussion and reflection activities
