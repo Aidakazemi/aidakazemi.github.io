@@ -32,7 +32,7 @@
 
 [[main]]
   name = "CV"
-  url = "https://aidakazemi.github.io/CV.pdf"
+  url = "/CV.pdf"
   weight = 50
 
 [[main]]
